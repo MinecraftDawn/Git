@@ -5,5 +5,5 @@
 Git是一款版本控制的軟體
 
 ## 下載
-<a href="https://git-scm.com/https://git-scm.com/">可於此下載Git</a>
+<a href="https://git-scm.com">可於此下載Git</a>
 
